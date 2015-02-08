@@ -22,11 +22,11 @@ public class EXAM_S {
  * @version 1.0
  */
 class CCountInfo{
-	// 同字部分列の開始
+	// 開始位置
 	public int CFrom = -1;		  
-	// 同字部分列の終了
+	// 終了位置
 	public int CTo = -1;
-	// 同字部分列の数
+	// 終了位置-開始位置
 	public int CSum = -1;
 }
 
